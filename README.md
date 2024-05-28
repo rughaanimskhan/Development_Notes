@@ -4,7 +4,6 @@ https://github.com/sandeepkumar17/CleanArch
 
 https://github.com/arbems/EF-Core-Repository-Unit-of-Work
 https://gist.github.com/akatakritos/96b0c3136f8498246fa810d393927f04 identity script
-ALTER SCHEMA UserManagement TRANSFER    [dbo].[AspNetUserTokens]
 
 https://github.com/JiboGithub/StudentTeacherAPI	
 https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
@@ -20,7 +19,6 @@ https://arbems.com/en/roadmap-asp-net-core-en/
 https://jasonwatmore.com/
 
 https://medium.com/@ajidejibola/authentication-and-authorization-in-net-6-with-jwt-and-asp-net-identity-2566e75851fe need to implement the same which he implement the program class
-
 
 https://codewithmukesh.com/blog/pagination-in-aspnet-core-webapi/ for paginatoin
 
