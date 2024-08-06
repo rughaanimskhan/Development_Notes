@@ -27,3 +27,9 @@ https://www.google.com/search?q=.net+core+6+clean+architecture+wtih+repository+p
 https://dev.to/techiesdiary/net-60-clean-architecture-using-repository-pattern-and-dapper-with-logging-and-unit-testing-1nd9
 
 https://alimozdemir.medium.com/asp-net-core-jwt-and-refresh-token-with-httponly-cookies-b1b96c849742
+
+using examples CRQS
+https://medium.com/@EdsonMZ/implementing-the-cqrs-and-mediator-pattern-in-a-net-8-web-api-8c0319a4525c
+https://mahedee.net/concurrency_management_in_aspnet_core_database_generated_token/
+https://mahedee.net/authentication-and-authorization-using-JWT-in-asp.net-core-application/
+https://mahedee.net/categories/
