@@ -1,0 +1,19 @@
+Ocelot
+
+ An API Gateway is a layer used in microservices architectures to provide an abstraction layer between clients and services, 
+
+it is a single entry point for directing traffic to various microservices and a central place where security, orchestration, monitoring,
+ protocol transformation, and other non-functional requirements can be implemented. Instead of exposing each service individually through its own IP address and port, 
+ a single IP address and port is exposed for the API Gateway, which routes requests to the appropriate services.
+ 
+ 
+ With Ocelot, we can implement features such as routing, authentication, authorization, throttling, load balancing, caching, response transformation, orchestration, monitoring, and more, simply 
+ and efficiently, making which improves the efficiency of the deployment and the scalability of the application.
+ 
+ 
+ 1 - text AI with Vowels
+
+ Tech related news papers
+ https://www.theregister.com/
+ https://petapixel.com/
+ 
