@@ -1,0 +1,51 @@
+SQL question:- 
+1 - What is normalization
+ Normalization is database design technique to remove the redundant data.
+ 
+ 
+What is denormalization ?
+	denomalizatoin is a databasae design technique which focuses to improve the search performance.
+
+Explain OLTP vs OLAP ?  
+ OLTP(Online transaction processing)  - for crud operation, nomalization, 
+	OLTP normatilizaiton avaoids redundancy and we follow the normalization design(1st, 2nd and third normal form)
+ OLAP(Online analytical processing) - for search, get, fetch, select, analysis, denomalizatoin, 
+	OLAP denomaliztion improve seach performanceand we follow the denomalizatoin design.
+ 
+ Explain 1st,2nd and 3rd Normal form ?
+	1st normal from :-  a table is in first normal form when the columns have atomic values. it should not have repeating group
+		ID | Name
+		1, | Shiv, hari, Koriala
+		2 ,| rAJU, hari, Koriala
+	2nd normal form: -  all the rules fo first normal forms should be followed. the table should have atomic and not repeating data.
+		ID | Name					CountryID | CountryName
+		1, | Shiv, hari, Koriala	1		    PK
+		2 ,| rAJU, hari, Koriala	2			india
+		
+	3rd normal form:- all the 1st and 2nd normal form should be satisfied. No trasient depdency should be present.
+		ID | Name					CountryID | CountryName | Product | PerCost
+		1, | Shiv, hari, Koriala	1		    PK			shoes		10
+		2 ,| rAJU, hari, Koriala	2			india		shirts		20
+		
+APT: - A(Atomic), P(partial dependency), T(Transient)
+
+what is the index?
+	index help you to increase search performacne 
+
+how index work:- it does by creating nodes and leaf nodes, it creates a balance tree structure.
+
+what is transaction?
+ transaction help us to handle the series of events in single unit
+ call one single unit, if one transaction fails all series of events will rollback
+ 
+ what is inner join?
+ inner join select matching recond from both tables
+ 
+ left join?
+  all data from left table selected and only matching records from right table
+   
+	right join?
+  all data from left right selected and only matching records from left table
+  
+  full outer join?
+  all matchinh and unmatching records from both left and right table are selected.
