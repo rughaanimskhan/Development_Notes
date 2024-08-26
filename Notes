@@ -22,7 +22,17 @@ https://codewithmukesh.com/blog/pagination-in-aspnet-core-webapi/ for paginatoin
 Developer road map 
 https://roadmap.sh/
 
+CQRS
+https://code-corner.dev/2020/11/25/Auditing-with-Mediator-Pipelines-in-ASP-NET-Core/
+
+CleanArchitectrure with mediator pattern
+https://github.com/edyi13/CleanArchitectureNet8/blob/master/src/CleanArchitectrure.WebApi/Extensions/Middleware/ValidationMiddleware.cs
+
 https://medium.com/@EdsonMZ/implementing-the-cqrs-and-mediator-pattern-in-a-net-8-web-api-8c0319a4525c
 https://mahedee.net/concurrency_management_in_aspnet_core_database_generated_token/
 https://mahedee.net/authentication-and-authorization-using-JWT-in-asp.net-core-application/
 https://mahedee.net/categories/
+
+INETCPL.CPL
+
+RabbitMQ, Elastic, Redis Cache, WCF, Dockers, Power BI, Tableau
